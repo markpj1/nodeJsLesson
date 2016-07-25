@@ -1,5 +1,5 @@
 var greet = function () {
-  console.log('Hello World inside greet function');
+  console.log('Greet inside of greet Greetings');
 };
 
 module.exports = greet;
