@@ -1,3 +1,4 @@
+//JSON file invoked by index.js + app.js
 {
     "en": "Hello",
     "es": "Hola"
